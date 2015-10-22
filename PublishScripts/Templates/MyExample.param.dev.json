@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "MyExample444"
+  },
+  "hostingPlanName": {
+    "value": "MyExamplePlan"
+  },
+  "siteLocation": {
+    "value": "East US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "473f4292-f5e4-4fbb-8569-a850f8a78a8b"
+  },
+  "resourceGroup": {
+    "value": "MyExampleGroup"
+  }
+}
